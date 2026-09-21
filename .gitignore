@@ -1,0 +1,8 @@
+.venv/
+pycache/
+*.pyc
+.env
+.idea/
+.vscode/
+wordlists/
+.DS_Store
