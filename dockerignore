@@ -1,0 +1,5 @@
+.venv/
+.git/
+pycache/
+.DS_Store
+wordlists/
